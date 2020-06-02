@@ -28,7 +28,7 @@ elif choose==2:
 elif choose==3:
     word=random.choice(ramaayan)
 
-print('HINT : ' + '_ _' + word[2:5])
+print('HINT : Starts with' + word[0])
 print('\n')
 print("Start guessing...")
 time.sleep(0.5)
