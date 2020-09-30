@@ -136,3 +136,4 @@ while turn>0:
             print('You lose ! The word was ' + word + '. Sorry, you don''t get the story.')
             print('\n')
             print('Write your story on your own.')
+#Winstoryhangman
